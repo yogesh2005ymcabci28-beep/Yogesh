@@ -1,0 +1,9 @@
+a=int(input("Enter the no.of Rs.10:"))
+b=int(input("Enter the no.of Rs.5:"))
+c=int(input("Enter the no.of Rs.2:"))
+d=int(input("Enter the no.of Rs.1:"))
+A=10*a
+B=5*b
+C=2*c
+D=1*d
+print("Total amount in piggy bank=",A+B+C+D)
